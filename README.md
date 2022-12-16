@@ -6,4 +6,4 @@ www.roblox.com/transactions
 
 www.turbowarp.org
 
-chat.openai.com
+www.chat.openai.com
